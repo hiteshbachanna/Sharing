@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/hg032812/android/Sharing/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.0.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="4e86306289ace4aa0cfec44a05ed2b410d36989d">
+        <dex dex="/Users/hg032812/android/Sharing/app/build/intermediates/pre-dexed/debug/classes-817677f5b378a60ef839eb5c1468689db79d03e2.jar" />
+    </item>
+    <item
+        jar="/Users/hg032812/.gradle/caches/modules-2/files-2.1/com.amazonaws/aws-android-sdk-core/2.2.1/36d1a20986f3b98033fc7bcf49724ad199a5cde7/aws-android-sdk-core-2.2.1.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="36d1a20986f3b98033fc7bcf49724ad199a5cde7">
+        <dex dex="/Users/hg032812/android/aws-sdk-android-samples/S3_TransferManager1/app/build/intermediates/pre-dexed/debug/aws-android-sdk-core-2.2.1-6d113befd8ea938dfe510866ea9d24b207563a1b.jar" />
+    </item>
+    <item
+        jar="/Users/hg032812/android/aws-sdk-android-samples/S3_TransferManager1/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.0.0/libs/internal_impl-22.0.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="b5b92f469d515a13d778900f6d50c03d12f35504">
+        <dex dex="/Users/hg032812/android/aws-sdk-android-samples/S3_TransferManager1/app/build/intermediates/pre-dexed/debug/internal_impl-22.0.0-62f266b7099cb4d1f86b350f2c72ee9d692c73c5.jar" />
+    </item>
+    <item
+        jar="/Users/hg032812/.gradle/caches/modules-2/files-2.1/com.google.code.gson/gson/2.2.4/a60a5e993c98c864010053cb901b7eab25306568/gson-2.2.4.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="a60a5e993c98c864010053cb901b7eab25306568">
+        <dex dex="/Users/hg032812/android/aws-sdk-android-samples/S3_TransferManager1/app/build/intermediates/pre-dexed/debug/gson-2.2.4-05ff7f0964325548c3583309fdf34e2cacf878ff.jar" />
+    </item>
+    <item
+        jar="/Users/hg032812/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/22.0.0/support-annotations-22.0.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="685d0b2c590447e85284ed84712cb363ba04eff8">
+        <dex dex="/Users/hg032812/android/aws-sdk-android-samples/S3_TransferManager1/app/build/intermediates/pre-dexed/debug/support-annotations-22.0.0-079af25d4cd7e092a280a1e0cd635d175f9c7c7e.jar" />
+    </item>
+    <item
+        jar="/Users/hg032812/android/aws-sdk-android-samples/S3_TransferManager1/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.0.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="4e86306289ace4aa0cfec44a05ed2b410d36989d">
+        <dex dex="/Users/hg032812/android/aws-sdk-android-samples/S3_TransferManager1/app/build/intermediates/pre-dexed/debug/classes-ed43f0decbba9465455eace75e57d9c0abe14fd9.jar" />
+    </item>
+    <item
+        jar="/Users/hg032812/.gradle/caches/modules-2/files-2.1/com.amazonaws/aws-android-sdk-s3/2.2.1/3b9a81d08f908b0ee381b699d823c83a32391c0f/aws-android-sdk-s3-2.2.1.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="3b9a81d08f908b0ee381b699d823c83a32391c0f">
+        <dex dex="/Users/hg032812/android/aws-sdk-android-samples/S3_TransferManager1/app/build/intermediates/pre-dexed/debug/aws-android-sdk-s3-2.2.1-5a54075e83f509c3ca5669aca4a1557dcdad6207.jar" />
+    </item>
+    <item
+        jar="/Users/hg032812/.gradle/caches/modules-2/files-2.1/joda-time/joda-time/2.7/5599707a3eaad13e889f691b3af78c8c03842195/joda-time-2.7.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="5599707a3eaad13e889f691b3af78c8c03842195">
+        <dex dex="/Users/hg032812/android/aws-sdk-android-samples/S3_TransferManager1/app/build/intermediates/pre-dexed/debug/joda-time-2.7-50677918eda1b5787191253f5215927a3b2764c3.jar" />
+    </item>
+    <item
+        jar="/Users/hg032812/android/Sharing/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.0.0/libs/internal_impl-22.0.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="b5b92f469d515a13d778900f6d50c03d12f35504">
+        <dex dex="/Users/hg032812/android/Sharing/app/build/intermediates/pre-dexed/debug/internal_impl-22.0.0-e64de76ba529be4ad621ea7f1cf748bd43c7eb96.jar" />
+    </item>
+
+</items>
